@@ -1,7 +1,5 @@
 # JusticeBuddy
 
-![JusticeBuddy Logo](path_to_logo_image_if_any)
-
 ## Project Description
 
 JusticeBuddy is a web application designed to provide users with accurate and timely legal advice using the power of artificial intelligence. Leveraging the GPT API, JusticeBuddy processes user queries to generate comprehensive legal guidance based on extensive legal knowledge and datasets. This project aims to make legal advice accessible to everyone by providing a user-friendly platform for legal assistance.
